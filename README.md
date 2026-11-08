@@ -1,5 +1,6 @@
 # Luis E. Santori — Academic Website
 
+
 A static, hand-written academic site. No build step. Open `index.html` in a browser to view locally; upload everything to any static host (GitHub Pages, Netlify, Cloudflare Pages, your department's web space) to publish.
 
 ## File layout
